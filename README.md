@@ -4,4 +4,4 @@ This project will attempt to answer the following question, which states in the 
 # Motivation
 I was pulled toward the Healthcare industry because my mom used to be a nurse and both my older sisters are nurses currently, and I have gotten to see how important Healthcare is right here in Nashville. I discovered the medicare data website while I was looking for healthcare datasets and I found some very compelling data that I decided to analyze.
 # Data Question
-My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top companies doing right and what are the bottom companies doing wrong.
+My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top providers doing correctly and what do the bottom providers need to improve on.
