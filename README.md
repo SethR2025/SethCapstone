@@ -4,6 +4,6 @@ This project will attempt to answer the following question, which states in the 
 # Motivation
 I was pulled toward the Healthcare industry because my mom used to be a nurse and both my older sisters are nurses currently, and I have gotten to see how important Healthcare is right here in Nashville. I discovered the medicare data website while I was looking for healthcare datasets and I found some very compelling data that I decided to analyze.
 # Data Question
-My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top providers doing correctly and what do the bottom providers need to improve on.
+My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top providers doing correctly and what do the bottom providers need to improve on. I would also like to find out if there is a correlation between median household income and the outcomes of the surveys.
 
 The link to my Tableau Dashboards is located here https://public.tableau.com/profile/seth.remo#!/
