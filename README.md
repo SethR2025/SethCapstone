@@ -7,3 +7,6 @@ I was pulled toward the Healthcare industry because my mom used to be a nurse an
 My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top providers doing correctly and what do the bottom providers need to improve on. I would also like to find out if there is a correlation between median household income and the outcomes of the surveys.
 
 The link to my Tableau Dashboards is located here https://public.tableau.com/profile/seth.remo#!/
+
+# Analysis
+First I began with creating the Total Score for every state and every provider. The total score is taken from the results of all the patient surveys. I used this score to rank every provider and every state from best to worst, and then I plotted all this information on a Tableau map. 
