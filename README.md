@@ -9,4 +9,4 @@ My overall question is who provides the best and worst Home Health Care services
 The link to my Tableau Dashboards is located here https://public.tableau.com/profile/seth.remo#!/
 
 # Analysis
-First I began with creating the Total Score for every state and every provider. The total score is taken from the results of all the patient surveys. I used this score to rank every provider and every state from best to worst, and then I plotted all this information on a Tableau map. 
+First I began with creating the Total Score for every state and every provider. Scores were created using each category in the dataset, determining if it is a positive or negative, and then totaling the numbers to give a final score ranging from 650 to 1300 (1300 being the best). I used this score to rank every provider and every state from best to worst, and then I plotted all this information on a Tableau map. 
