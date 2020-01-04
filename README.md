@@ -1,12 +1,20 @@
 # Home Health Care Services in The United States
 
-This project will attempt to answer the following question, which states in the US provide the best home health care service based on patient surveys? I will then drill down on top states, and providers, as well as bottom states and providers. I am motivated to do this because I feel that it could be beneficial to my future employer and healthcare is a very hot subject in Nashville and The United States as a whole.
-# Motivation
-I was pulled toward the Healthcare industry because my mom used to be a nurse and both my older sisters are nurses currently, and I have gotten to see how important Healthcare is right here in Nashville. I discovered the medicare data website while I was looking for healthcare datasets and I found some very compelling data that I decided to analyze.
-# Data Question
-My overall question is who provides the best and worst Home Health Care services by State and Provider. I want to answer the question of what are the top providers doing correctly and what do the bottom providers need to improve on. I would also like to find out if there is a correlation between median household income and the outcomes of the surveys.
+This project will attempt to answer the following question: which states in the US provide the best home health care service based on patient surveys? I drilled down on top states, and providers, as well as bottom states and providers. I felt this topic would be relevant to my future employment given my drive toward the healthcare industry, which is systematically moving toward home health services.
 
-The link to my Tableau Dashboards is located here https://public.tableau.com/profile/seth.remo#!/
+## Motivation
 
-# Analysis
-First I began with creating the Total Score for every state and every provider. The total score is taken from the results of all the patient surveys. I used this score to rank every provider and every state from best to worst, and then I plotted all this information on a Tableau map. 
+I am pulled toward the Healthcare industry because my mom and both of my sisters are nurses, and I have gotten to see how important Healthcare is right here in Nashville. Once I discovered the Medicare data  in my research, I knew that analyzing it to tier home health agencies nation-wide would bring together my passion for healthcare and expertise in data-science.
+
+## Data Question
+
+My project, based on analysis of substantial data sets, shows which Home Health Care agencies provide the best and worst services by state and provider, based on a variety of metrics. I would also like to explore the relationship between median household income and the outcomes of the surveys. Finally, I analyzed the relationship between provider location and patient review scores.
+The links to my Tableau Dashboards are located here 
+https://public.tableau.com/profile/seth.remo#!/vizhome/CapstoneMaps_15767999950410/AverageScorebyState
+https://public.tableau.com/profile/seth.remo#!/vizhome/CapstoneMaps_15767999950410/ProviderInformationandLocation
+https://public.tableau.com/profile/seth.remo#!/vizhome/CapstoneMaps_15767999950410/HowManyProvidersScored90inEveryCategory
+
+## Analysis
+
+First, I began with creating the Total Score for every state and every provider. Scores were created using each category in the dataset, determining if it is a positive or negative, and then totaling the numbers to give a final score ranging from 650 to 1300 (1300 being the best). Every category was calculated as a percentage so for every positive category I would add the percentage and for every negative category I would subtract the percentage. I used this score to rank every provider and every state from best to worst, and then I plotted the information on a Tableau map. I will also be creating multiple bar charts to visualize the states and providers, that will be available in the PowerPoint presentation.
+
